@@ -1,0 +1,53 @@
+Day-01[31-11-2021]:
+===================
+
+	Good Morning to All....
+
+	=> https://github.com/AP-Skill-Development-Corporation/
+	=> programmiz.com
+
+	Python Introduction:
+	====================
+
+	Python Versions:
+	================
+		- Python 2.x
+		- Python 3.x
+
+	Python Installation:
+	====================
+	https://python.org
+
+		-> Place Cursor on "Downloads"
+		-> Select your opearting System
+		-> In that you need to select operating then it will displays 2 colums 
+			=> Stable release
+			=> Pre-release
+		-> You need to select only on stable release of software files to download based on Operating System
+		-> First type python 3.7.5 then it will displays as different file extension downloads
+		-> You need to Select the 3rd file as "Download as Python-x86-64 executeable installer" for 64 bit operating system
+		-> If it is 32 bit you need to select "Download as Python-x86 executeable installer" for 32 bit operatin system
+		-> After Completion you need to double click on the software.
+		-> It will displays the window with some options such as
+			=> Install now -> For direct installation
+			=> Custom Install -> For particular drive or folder installations [User defined locations]
+		-> In checkboxes you need to select both one for permissions and another one for "Add path for environment variables".
+		-> You need to click on next for further steps untill "Finish".
+
+	Python Installation Check:
+	==========================
+		=> python -V
+			The upper command should be typed in command prompt for Checking of Python
+
+	Python is Internal or External command Error:
+	============================================
+		-> cmd
+		-> path("c:\Users\xxxx\AppData\Programs\Python\Python3X\")
+
+	Python Execution Ways:
+	======================
+	-> Basic Process
+	-> Advanced Editor
+	-> IDLE
+	-> Jupyter Notebook
+
