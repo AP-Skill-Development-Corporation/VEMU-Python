@@ -1,0 +1,43 @@
+Day-02[01-12-2021]:
+===================
+	Good Morning to All...
+
+	Advanced Editor:
+	================
+		-> Sublime,atom,notepad++,geany,editplus etc.,
+
+	IDLE:Integrated Development Learning Environment
+	=======
+
+	Jupyter NoteBook:
+	=================
+
+	Pip Version Check:
+	------------------
+		-> cmd
+		-> pip -V
+
+	Jupyter Notebook Installation and running:
+	==========================================
+		-> pip install jupyter notebook
+		If it is getting any error then we need to upgrade the pip command is:
+			=> python -m pip install --upgrade pip
+		Then we need to install the jupyter notebook
+		-> jupyter notebook
+
+	Literate Programming:
+	=====================
+		=> Combination of "Coding and Documentation"
+		=> jupyter
+
+	Jupyter Notebook Shortcuts:
+	===========================
+	** shift + enter => Execute
+	** esc + a => insert cell above
+	** esc + b => insert cell below
+	** esc + dd => To delete a cell
+	** esc + y => coding format
+	** esc + m => markdown format
+	** blue => coding
+	** green => editing
+
