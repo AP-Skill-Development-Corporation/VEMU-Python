@@ -9,3 +9,7 @@
   - Installation of jupyter notebook
   - Literate programming and breif explanation of jupyter notebook
   - Variables,data types,type(),input() with sample examples on it
+# Day-03(02-12-2021):
+  - output format with sample examples on each
+  - conditional statements and control statements like for examples on each
+  - range overview explanation
