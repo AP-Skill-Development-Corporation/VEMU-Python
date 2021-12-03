@@ -13,3 +13,6 @@
   - output format with sample examples on each
   - conditional statements and control statements like for examples on each
   - range overview explanation
+# Day-04(03-12-2021):
+  - Control statements on while with some examples
+  - Jumping statements and Inner loop concept with sample examples on each
