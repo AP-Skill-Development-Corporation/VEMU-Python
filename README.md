@@ -16,3 +16,7 @@
 # Day-04(03-12-2021):
   - Control statements on while with some examples
   - Jumping statements and Inner loop concept with sample examples on each
+# Day-05(04-12-2021):
+  - Data Structures brief explanation
+  - List and tuple methods with sample examples on each
+  - Practiced some problems on hackerrank 
